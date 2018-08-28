@@ -9,7 +9,7 @@ import javax.validation.constraints.Min;
 import javax.validation.constraints.Size;
 import java.text.SimpleDateFormat;
 import java.util.Date;
-
+1
 public class DevUser {
     @Min(7)
     @Max(10)
